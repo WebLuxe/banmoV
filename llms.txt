@@ -1,18 +1,22 @@
 # V8 Motors
 
-> Used car dealer at 59B Royal Road, Coromandel, Mauritius. Tagline: "Drive smarter. Find your modern car." Buy, sell or exchange. Every car is checked before sale, new stock arrives every week and there are deals every Saturday. Leasing is available through Rogers Capital.
+> Used car dealer at 59B Royal Road, Coromandel, Mauritius. Buy, sell or exchange. Every car is checked before sale, new stock arrives every week and there are deals every Saturday. Leasing is available through Rogers Capital.
 
 ## Contact
 - Phone: 5259 0327, 5750 7912, 5500 9527, 5532 9727
 - Email: veightmotorsv8@gmail.com
 - Address: 59B Royal Road, Coromandel, Mauritius
+- Hours: Monday to Friday 9:00 to 17:00, Saturday 9:00 to 16:00
 
 ## Pages
 - [Home](https://v8motors.mu/)
-- [Catalogue](https://v8motors.mu/catalogue.html): every car for sale, with filters, photo galleries, finance and running-cost calculators
-- [Sell your car](https://v8motors.mu/#/sell)
-- [About us](https://v8motors.mu/#/about)
-- [Contact](https://v8motors.mu/#/contact)
+- [Cars for sale](https://v8motors.mu/cars.html): every car in stock, with photos and prices in rupees
+- [Sell or exchange](https://v8motors.mu/sell.html)
+- [About us](https://v8motors.mu/about.html)
+- [Contact](https://v8motors.mu/contact.html)
+
+## Stock data
+- [cars.json](https://v8motors.mu/data/cars.json): the current stock list as JSON
 
 ## Ways to pay
 - Cash, bank loan, leasing through Rogers Capital, or exchange your current car
