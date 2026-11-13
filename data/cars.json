@@ -14,11 +14,11 @@
   "seats": 5,
   "colour": "GREY",
   "description": "The 2020 Citroën C5 Aircross is a comfort-focused, quirky family SUV that prioritizes a smooth ride and massive interior flexibility over sporty handling",
-  "priceMur": 3,
+  "priceMur": 1e+31,
   "isDeal": false,
   "status": "FOR_SALE",
   "createdAt": "2026-11-13T08:18:10.819Z",
-  "updatedAt": "2026-11-13T14:00:39.247Z",
+  "updatedAt": "2026-11-13T14:01:22.363Z",
   "photos": [
    "https://v8.farhaan.info/uploads/1794557889470-5e65c291d86e2234.webp",
    "https://v8.farhaan.info/uploads/1794557889736-31ac3e9e29a0ab68.webp",
